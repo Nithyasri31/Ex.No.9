@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Date:24.05.2026
+# Reg. No.:212224040226
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -42,6 +42,33 @@ Tools/LLMs for Video Generation:
 4.	Use the Selected Tool: Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
 5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
 6.	Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
+
+OUTPUT:
+
+BASIC PROMPT: “A lost puppy finding its way back home.”
+
+
+
+https://github.com/user-attachments/assets/c8e5e1c1-8451-4ae0-bd04-64217af51d78
+
+REFINED PROMPT:
+“A heartwarming cinematic scene of a lost golden puppy searching for its home through streets and gardens during sunset. The puppy looks worried and tired at first, then recognizes its house and joyfully runs toward its loving family waiting at the doorstep. Emotional storytelling, warm lighting, realistic animation, soft shadows, detailed environment, touching and happy atmosphere, cinematic camera angles, high-quality 3D animation.”
+
+
+
+https://github.com/user-attachments/assets/9cf716ca-55f8-4e46-acca-b976b9730a65
+
+
+
+| Feature        | Original Story Idea            | Generated Scene                      |
+| -------------- | ------------------------------ | ------------------------------------ |
+| Main Character | Lost puppy                     | Fluffy emotional puppy               |
+| Setting        | Streets and village roads      | Detailed roads, houses, and trees    |
+| Emotion        | Sadness turning into happiness | Strong emotional storytelling        |
+| Lighting       | Evening or sunset atmosphere   | Warm golden cinematic lighting       |
+| Action         | Puppy searching for home       | Puppy running joyfully toward family |
+| Ending         | Puppy finds its home safely    | Happy and heartwarming ending        |
+
 
 # Deliverables:
 1.	The Original Video: Provided Video for reference.
